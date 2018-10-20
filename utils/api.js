@@ -43,7 +43,6 @@ function callGetNewUserCoupon() {
 
 
 
-
 //此js模块化
 module.exports = {
   callNewUserJude,
